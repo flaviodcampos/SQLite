@@ -1,3 +1,7 @@
+//ESTE CÓDIGO É APENAS UM TESTE
+
+
+
 package br.uema.sqlite;
 
 import android.app.ListActivity;
